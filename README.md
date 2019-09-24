@@ -19,7 +19,7 @@ pkg-update-checker.py
 ### Example
 
 ```
-python3 pkg_update_checker.py --jail unifi --pkg unifi5 --po-token <TOKEN> --po-user <USER>
+python3 pkg-update-checker.py --jail unifi --pkg unifi5 --po-token <TOKEN> --po-user <USER>
 ```
 
 [Pushover]: https://pushover.net/
